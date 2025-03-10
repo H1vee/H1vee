@@ -11,9 +11,5 @@ Hello, my name is Artem. I'm a Student of Yuriy Fedkovych Chernivtsi National Un
 ![](https://github-readme-stats.vercel.app/api?username=H1vee&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=H1vee&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H1vee&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=H1vee&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=H1vee&icon=2&color=1)](https://visitcount.itsvg.in)
