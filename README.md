@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Artem. I'm a Student of Yuriy Fedkovych Chernivtsi National University.Department of Mathematical Problems of Management and Cybernetics.
+Hello. My name is Artem. I'm a Student of Yuriy Fedkovych Chernivtsi National University.Department of Mathematical Problems of Management and Cybernetics.
 
 
 ## 🌐 Socials:
