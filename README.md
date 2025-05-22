@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Artem Ledinskyi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mathematical+Problems+%26+Cybernetics;Full-Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
