@@ -6,12 +6,12 @@
 
 ## 🎓 About Me
 
-I'm a passionate Computer Science student at **Yuriy Fedkovych Chernivtsi National University**, specializing in Mathematical Problems of Management and Cybernetics. I love combining mathematical precision with cutting-edge technology to solve complex problems.
+I'm a passionate Computer Science student at **Yuriy Fedkovych Chernivtsi National University**, specializing in Mathematical Problems of Management and Cybernetics. I'm deeply focused on software development, especially backend systems and clean architecture patterns.
 
 - 🔭 Currently focused on backend development with **Go** and building scalable systems
-- 🌱 Exploring microservices architecture, concurrent programming, and distributed systems
-- 💡 Interested in cybernetics, AI, and software architecture
-- 🎯 Goal: Contributing to open-source projects and building impactful software solutions
+- 🌱 Learning clean architecture, modular design patterns, and system optimization
+- 💡 Passionate about software architecture, performance optimization, and backend technologies
+- 🎯 Goal: Building robust backend systems and exploring new technologies through personal projects
 - ⚡ Fun fact: I love Go's simplicity and performance for building concurrent systems
 
 ## 🛠️ Tech Arsenal
@@ -72,8 +72,9 @@ I'm a passionate Computer Science student at **Yuriy Fedkovych Chernivtsi Nation
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-ledinskyi-1462202ab/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailedinskyi@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shingesa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+
 </div>
 
 ## 💭 Quote
