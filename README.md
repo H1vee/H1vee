@@ -2,43 +2,83 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=C%2B%2B+Developer;Qt+6+%7C+Linux+%7C+macOS+%7C+Windows;Cross-platform+Desktop+Applications;Backend+%26+Low-level+Programming;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=C%2B%2B+%2F+Backend+Developer;Qt+6+%7C+Linux+%7C+macOS+%7C+Windows;Cross-platform+Desktop+%26+Backend+Development;Go+%7C+PHP+%7C+React+%7C+Nginx;Low-level+Programming+%26+Infrastructure" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 C++ / Qt Developer
+- 💻 C++ / Backend Developer
 - 🖥️ Cross-platform desktop applications
-- ⚙️ Linux, macOS, Windows
-- 🔧 Working with WinAPI, Linux API, networking and installers
-- 🧩 Interested in low-level programming and system architecture
-- 📚 Currently improving backend and software architecture skills
+- ⚙️ Linux, macOS, Windows development
+- 🔧 Working with WinAPI, Linux API, networking and system-level software
+- 📦 Building installers and deployment systems for Windows, Linux and macOS
+- 🌐 Backend development, infrastructure and server administration
+- 🧩 Interested in low-level programming, architecture and performance optimization
+- 🛠️ Full development cycle: development → build → deployment → support
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## 💻 Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/.bat-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### Frameworks & Tools
+---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## ⚙️ Frameworks & Infrastructure
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🖥️ Platforms
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Build, Packaging & Deployment
+
+![Inno Setup](https://img.shields.io/badge/Inno%20Setup-1F6FEB?style=for-the-badge)
+![DEB](https://img.shields.io/badge/.deb-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![PKG](https://img.shields.io/badge/macOS%20.pkg-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Scripts-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 🛠️ IDEs & Development Tools
+
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge)
+![RAD Studio](https://img.shields.io/badge/RAD%20Studio-E62431?style=for-the-badge)
+![C++ Builder](https://img.shields.io/badge/C%2B%2B%20Builder-CC0000?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -52,7 +92,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -62,7 +102,7 @@
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -72,7 +112,7 @@
 
 ---
 
-## 🌐 Contact Me
+# 🌐 Contact Me
 
 <div align="center">
 
@@ -86,6 +126,6 @@
 
 <div align="center">
 
-### ⚡ Code • Debug • Improve • Repeat
+### ⚡ Code • Debug • Build • Deploy • Optimize • Repeat
 
 </div>
