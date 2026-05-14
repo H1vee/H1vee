@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=C%2B%2B+%2F+Backend+Developer;Qt+6+%7C+Linux+%7C+macOS+%7C+Windows;Cross-platform+Desktop+%26+Backend+Development;Go+%7C+PHP+%7C+React+%7C+Nginx;Low-level+Programming+%26+Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=C%2B%2B+%2F+Backend+Developer;Qt+6+%7C+Linux+%7C+macOS+%7C+Windows;Cross-platform+Desktop+%26+Backend+Development;Go+%7C+PHP+%7C+React+%7C+Nginx;Low-level+Programming+%26+Infrastructure;HTTP+%7C+JWT+%7C+GORM+%7C+Echo+Framework" />
 
 </div>
 
@@ -34,6 +34,20 @@
 
 ---
 
+## 🌐 Backend & Infrastructure
+
+![Echo](https://img.shields.io/badge/Echo_Framework-00ADD8?style=for-the-badge)
+![GORM](https://img.shields.io/badge/GORM-1C1C1C?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge)
+![CORS](https://img.shields.io/badge/CORS-4B8BBE?style=for-the-badge)
+![XSS](https://img.shields.io/badge/XSS%20Protection-CC0000?style=for-the-badge)
+![LiqPay](https://img.shields.io/badge/LiqPay-5BBE00?style=for-the-badge)
+
+---
+
 ## 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,10 +55,9 @@
 
 ---
 
-## ⚙️ Frameworks & Infrastructure
+## ⚙️ Frameworks & Tools
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
